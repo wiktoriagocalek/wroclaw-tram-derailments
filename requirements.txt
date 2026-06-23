@@ -1,0 +1,5 @@
+# Geocoding and GTFS scripts — standard library only
+# Python 3.10+
+
+# Jupyter notebook (01_scraper.ipynb):
+jupyter>=1.0.0

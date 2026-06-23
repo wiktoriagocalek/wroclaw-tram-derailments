@@ -1,0 +1,26 @@
+# Portfolio HTML (lives in portfolio repo)
+mapa-tramwajow.html
+*.html
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# GTFS source zip (large, download separately — see README)
+../rozklady/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Embedded data (generated)
+_data.json
